@@ -1,0 +1,5 @@
+{
+  "name": "Bay Lore IPC",
+  "description": "An AI-powered question-and-answer service for the lore of the Baystation12 roleplaying game. The AI's knowledge is sourced exclusively from pre-defined lore documents for each topic.",
+  "requestFramePermissions": []
+}
